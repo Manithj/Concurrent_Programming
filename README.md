@@ -11,7 +11,7 @@ Concurrent programming is a technique in which two or more processes start, run 
 - Install `Jetbrains Toolbox` by proceeding to this [link](https://www.jetbrains.com/toolbox-app/).
 - Open the app and login to your Jetbrains account (Students and Educators can get premium free of charge [click here](https://www.jetbrains.com/community/education/#students) )
 - Download `CLion` IDE from the app.
-- Clone the project to your system directory by entering [`https://github.com/Manithj/Concurrent_Programming.git`](https://github.com/Manithj/Concurrent_Programming.git) to the commandline/terminal.
+- Clone the project to your system directory by entering [`https://github.com/Manithj/Concurrent_Programming.git`] to the commandline/terminal.
 - Open the project using `CLion`.
 - Edit the `CMakeLists.txt` file by adding the .cpp file you need to run by `add_executable(<Project Name> <Program Name>)`.
 - Have fun!!! and don’t forget to contribute ❤️ .
