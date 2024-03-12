@@ -1,6 +1,6 @@
 # Concurrent Programming
 
-This lecture series is conducted by `Mrs. Dharani Abeysinghe` for the Concurrent Programming Module and coding implementation are done by `Manith Jayaba`.
+This lecture series is conducted by `Mrs. Dharani Abeysinghe` for the Concurrent Programming Module and coding implementations were done by `Manith Jayaba`.
 
 ![Untitled](https://github.com/Manithj/Concurrent_Programming/blob/main/Concurrent%20Programming/Untitled.png)
 
