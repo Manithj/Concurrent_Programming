@@ -16,4 +16,4 @@ Concurrent programming is a technique in which two or more processes start, run 
 - Edit the `CMakeLists.txt` file by adding the .cpp file you need to run by `add_executable(<Project Name> <Program Name>)`.
 - Have fun!!! and don’t forget to contribute ❤️ .
 
-Licensed under the `Apache-2.0 license` ©. All rights reserved..
+Licensed under the `Apache-2.0 license` ©. All rights reserved.
